@@ -1,1 +1,1 @@
-# https-github.com-win-001-m.miningbase.cloud
+# git clone https-github.com/win-001/miningbase.cloud-git
